@@ -1,0 +1,1 @@
+{"name":"com.bitmix.fallbird","version":"1.0.0.0","displayName":"fallbird","cordova":{"platforms":["ios","android"],"plugins":{"cordova-custom-config":{},"cordova-plugin-file":{},"cordova-plugin-media":{},"cordova-plugin-statusbar":{},"cordova-plugin-whitelist":{},"cordova-plugin-wkwebview-engine":{}}},"dependencies":{},"devDependencies":{}}

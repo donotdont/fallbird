@@ -1,0 +1,30 @@
+﻿{
+	"version": 1557325986,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/snake-sheet0.png",
+		"images/alien-sheet0.png",
+		"images/family-sheet0.png",
+		"images/pterodactyl-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/wall-sheet0.png",
+		"images/btnleft-sheet0.png",
+		"images/btnright-sheet0.png",
+		"images/camera.png",
+		"images/sftotalscore.png",
+		"images/totalcoin-sheet0.png",
+		"images/hp-sheet0.png",
+		"images/coin-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
