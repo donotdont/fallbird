@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1557325986,
+	"version": 1557751340,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,7 +19,10 @@
 		"images/sftotalscore.png",
 		"images/totalcoin-sheet0.png",
 		"images/hp-sheet0.png",
+		"images/sphpicon-sheet0.png",
 		"images/coin-sheet0.png",
+		"images/speed-sheet0.png",
+		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
