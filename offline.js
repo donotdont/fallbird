@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1557752738,
+	"version": 1558705804,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,12 @@
 		"images/speed-sheet0.png",
 		"images/hpplus-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite10-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
